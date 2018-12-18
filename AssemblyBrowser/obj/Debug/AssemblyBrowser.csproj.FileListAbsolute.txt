@@ -1,0 +1,6 @@
+c:\Users\Acer\source\repos\Wpf\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll
+c:\Users\Acer\source\repos\Wpf\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+c:\Users\Acer\source\repos\Wpf\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+c:\Users\Acer\source\repos\Wpf\AssemblyBrowser\obj\Debug\AssemblyBrowser.dll
+c:\Users\Acer\source\repos\Wpf\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
+C:\Users\Acer\source\repos\Wpf\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache

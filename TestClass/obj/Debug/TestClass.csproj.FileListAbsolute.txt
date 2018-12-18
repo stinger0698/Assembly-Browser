@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Wpf\TestClass\bin\Debug\TestClass.dll
+C:\Users\Acer\source\repos\Wpf\TestClass\bin\Debug\TestClass.pdb
+C:\Users\Acer\source\repos\Wpf\TestClass\obj\Debug\TestClass.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Wpf\TestClass\obj\Debug\TestClass.dll
+C:\Users\Acer\source\repos\Wpf\TestClass\obj\Debug\TestClass.pdb
+C:\Users\Acer\source\repos\Wpf\TestClass\obj\Debug\TestClass.csprojAssemblyReference.cache
